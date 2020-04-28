@@ -1,0 +1,19 @@
+p {color: rgb(0,255,0);font-family: courier;}
+h3{color: black}
+
+.head1{color: #ffffff;}
+.head2{color: rgba(255, 0, 0, 0.6);}
+.head3{color: green}
+.d_head{
+	background-color: powderblue;
+}
+
+#head{
+	color: slateblue;
+}
+.middle{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
